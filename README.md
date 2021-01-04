@@ -2,7 +2,7 @@
 
 ## Overview
 Project aiming to reproduce the results of the following published paper and extend its results: [SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH
-50X FEWER PARAMETERS AND <0.5MB MODEL SIZE](https://arxiv.org/pdf/1602.07360.pdf).
+50X FEWER PARAMETERS AND <0.5MB MODEL SIZE](https://arxiv.org/pdf/1602.07360.pdf). Please find the project write-up in the repository.
 
 
 ## Prerequisites
