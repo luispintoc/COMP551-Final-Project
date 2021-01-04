@@ -1,5 +1,10 @@
 # Mini-project4 - COMP551 - Applied Machine Learning
 
+## Overview
+Project aiming to reproduce the results of the following published paper and extend its results: [SQUEEZENET: ALEXNET-LEVEL ACCURACY WITH
+50X FEWER PARAMETERS AND <0.5MB MODEL SIZE](https://arxiv.org/pdf/1602.07360.pdf).
+
+
 ## Prerequisites
 The packages used are torch, torchvision, numpy, matplotlib and pandas.
 It will download the dataset (CIFAR10) into a folder called 'data'.
